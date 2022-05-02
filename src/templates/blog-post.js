@@ -1,10 +1,3 @@
-/* eslint-disable array-callback-return */
-/* eslint-disable consistent-return */
-/* eslint-disable no-shadow */
-/* eslint-disable react/jsx-filename-extension */
-/* eslint-disable react/no-array-index-key */
-/* eslint-disable react/no-danger */
-/* eslint-disable react/prop-types */
 import React from 'react';
 import { graphql } from 'gatsby';
 import Layout from '../components/layout';
