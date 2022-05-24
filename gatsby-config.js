@@ -27,7 +27,9 @@ module.exports = {
     //     path: `${__dirname}/src/`,
     //   },
     // },
-    // `gatsby-plugin-sharp`, `gatsby-transformer-sharp`,
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     {
       resolve: 'gatsby-source-contentstack',
       options: {
